@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5e451a1a-3f27-45da-874f-0f6b03ed1d91",
+  "export_job_id": "a634f337-bb21-4c09-a416-87408bf48e6b",
   "id_short": 203975,
-  "published_at": "2026-04-29T07:25:13Z",
+  "published_at": "2026-05-08T07:03:13Z",
   "repo_name": "all-restaurants-in-tampa-florida-us-sample-203975",
   "sample_asset_name": "beamstation_203975_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/203975/beamstation_203975_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 308,
-  "sample_sha256": "eaef59679a7913a87fbfe578a3267931903efdb918aeca37939b0f6a2027ad85",
-  "sample_size_bytes": 1104344,
-  "total_records": 3082
+  "sample_records": 339,
+  "sample_sha256": "73bac924faea860af3a78120a7b5b677b532285d65879822d2ca938b2f136535",
+  "sample_size_bytes": 1212059,
+  "total_records": 3394
 }
