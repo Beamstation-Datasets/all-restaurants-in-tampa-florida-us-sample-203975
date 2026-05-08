@@ -1,6 +1,6 @@
 # All Restaurants in Tampa, Florida, US
 
-> Free BeamStation sample export with 308 rows and masked direct-contact fields.
+> Free BeamStation sample export with 339 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `203975` |
 | Location | Tampa |
 | Category | Restaurants |
-| Full dataset size | 3,082 records |
-| Free sample size | 308 records (9.99%) |
-| Last export | 2026-04-28T22:53:42.552062+00:00 |
+| Full dataset size | 3,394 records |
+| Free sample size | 339 records (9.99%) |
+| Last export | 2026-05-08T00:28:21.730852+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tampa-florida-us-sample-203975/releases/download/sample-latest/beamstation_203975_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
